@@ -1,0 +1,15 @@
+Link para site da DIO: https://www.dio.me/sign-in
+Link para download do Git: https://git-scm.com/downloads
+
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+alguns comandos básicos de navegação GitBash
+"ctrl+l" : limpar 
+"ls" : listar
+"mkdir" : criar nova pasta
+"cd.." : volta um degral uma pasta/nivel
+"git clone" : copiar um repositório do Git para a sua maquina 
+"cd+nome da pasta" : entra dentro desta pasta
+"tecla Tab" : completa o nome do que você está digitando 
+
+
